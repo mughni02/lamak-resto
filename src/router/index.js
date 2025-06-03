@@ -3,7 +3,6 @@ import Home from '../views/Home.vue';
 import RestaurantList from '../views/RestaurantList.vue';
 import RestaurantMenu from '../views/RestaurantMenu.vue';
 import Cart from '../views/Cart.vue';
-import OrderHistory from '../views/OrderHistory.vue';
 import Login from '../views/Login.vue';
 import AdminMenu from '../views/AdminMenu.vue';
 import AdminOrders from '../views/AdminOrders.vue';
@@ -29,11 +28,6 @@ const routes = [
     path: '/cart',
     name: 'Cart',
     component: Cart,
-  },
-  {
-    path: '/order-history',
-    name: 'OrderHistory',
-    component: OrderHistory,
   },
   {
     path: '/login',

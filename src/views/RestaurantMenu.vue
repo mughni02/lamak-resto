@@ -31,7 +31,7 @@ export default {
   name: "RestaurantMenu",
   data() {
     return {
-      restaurantName: "La Trattoria",
+      restaurantName: "Ampera Kito",
       menu: [
         {
           id: 1,
@@ -39,51 +39,51 @@ export default {
           dishes: [
             {
               id: 101,
-              name: "Bruschetta",
-              description: "Grilled bread topped with tomatoes, garlic, and basil.",
-              price: 7.50
+              name: "Paket Keluarga",
+              description: "Nasi, Teh ES, Ikan Bakar, Lalapan",
+              price: 500.000
             },
             {
               id: 102,
-              name: "Caprese Salad",
-              description: "Fresh mozzarella, tomatoes, and basil drizzled with olive oil.",
-              price: 8.00
+              name: "Paket couple",
+              description: "Nasi, teh es, ayam bakar.",
+              price: 200.000
             }
           ]
         },
         {
           id: 2,
-          name: "Pizzas",
+          name: "Angkringan Ndeso",
           dishes: [
             {
               id: 201,
-              name: "Margherita Pizza",
-              description: "Classic pizza with tomato sauce, mozzarella, and basil.",
-              price: 12.99
+              name: "Seblak",
+              description: "Aneka seblak.",
+              price: 15.000
             },
             {
               id: 202,
-              name: "Pepperoni Pizza",
-              description: "Tomato sauce, mozzarella, and pepperoni slices.",
-              price: 14.50
+              name: "bakaran",
+              description: "Aneka Bakaran.",
+              price: 20.000
             }
           ]
         },
         {
           id: 3,
-          name: "Pastas",
+          name: "Jus mou",
           dishes: [
             {
               id: 301,
-              name: "Spaghetti Carbonara",
-              description: "Pasta with eggs, cheese, pancetta, and pepper.",
-              price: 13.75
+              name: "sop buah",
+              description: "mix aneka buah.",
+              price: 12.000
             },
             {
               id: 302,
-              name: "Penne Arrabbiata",
-              description: "Penne pasta in a spicy tomato sauce.",
-              price: 12.00
+              name: "jus apel",
+              description: "Apel segar tanpa manisan.",
+              price: 10.000
             }
           ]
         }

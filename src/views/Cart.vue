@@ -52,13 +52,13 @@ export default {
       cartItems: [
         {
           id: 1,
-          name: "Nasi Goreng Spesial",
+          name: "Gulai Tunjang",
           price: 25000,
           quantity: 2,
         },
         {
           id: 2,
-          name: "Es Teh Manis",
+          name: "Sop Buah",
           price: 8000,
           quantity: 1,
         },

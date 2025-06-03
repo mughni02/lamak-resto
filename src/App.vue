@@ -1,12 +1,11 @@
 <template>
   <div id="app">
     <header class="app-header">
-      <div class="logo">My Food Order</div>
+      <div class="logo">Resto App</div>
       <nav class="nav-links">
         <router-link to="/" exact-active-class="active-link" exact>Home</router-link>
         <router-link to="/restaurants" active-class="active-link">Restaurants</router-link>
-        <router-link to="/cart" active-class="active-link">Cart</router-link>
-        <router-link to="/order-history" active-class="active-link">Order History</router-link>
+        <router-link to="/cart" active-class="active-link">Keranjang Belanja</router-link>
         <router-link to="/login" active-class="active-link">Login</router-link>
       </nav>
     </header>
@@ -20,7 +19,7 @@
 &nbsp;
 
     <footer class="app-footer">
-      <p>© 2024 My Food Order. All rights reserved.</p>
+      <p>© 2025 Lamak Resto. All rights reserved.</p>
     </footer>
   </div>
 </template>

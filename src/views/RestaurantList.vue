@@ -36,31 +36,31 @@ export default {
       restaurants: [
         {
           id: 1,
-          name: "La Trattoria",
-          cuisine: "Italian",
-          rating: 4.5,
-          image: "https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&w=600&q=80"
+          name: "Ampera Kito",
+          cuisine: "Minang",
+          rating: 4.8,
+          image: "https://media.istockphoto.com/id/2157204919/id/foto/rendang-ayam-vegetarian.jpg?s=1024x1024&w=is&k=20&c=KVohkUlgC_ZaBToNqbqNbyGg3qwfqry1oqavF1AhRdQ="
         },
         {
           id: 2,
-          name: "Sushi World",
-          cuisine: "Japanese",
+          name: "Angkringan Nara",
+          cuisine: "Java",
           rating: 4.7,
-          image: "https://images.unsplash.com/photo-1562158070-78ca5732b180?auto=format&fit=crop&w=600&q=80"
+          image: "https://cdn.pixabay.com/photo/2021/03/17/16/28/coffee-time-6102831_1280.jpg"
         },
         {
           id: 3,
-          name: "Burger House",
-          cuisine: "American",
-          rating: 4.2,
-          image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=600&q=80"
+          name: "Jus mou",
+          cuisine: "Panama",
+          rating: 4.4,
+          image: "https://cdn.pixabay.com/photo/2021/02/08/20/24/juice-5996425_1280.jpg"
         },
         {
           id: 4,
-          name: "Curry Palace",
+          name: "Bakso",
           cuisine: "Indian",
           rating: 4.6,
-          image: "https://images.unsplash.com/photo-1604908177520-91bf014498d3?auto=format&fit=crop&w=600&q=80"
+          image: "https://media.istockphoto.com/id/1132252179/id/foto/grilled-indonesian-meatballs-or-bakso-bakar.jpg?s=2048x2048&w=is&k=20&c=zh36vV7NTKjl7sC2WB9WhEB13jbY_Fvp4tSWFl8E3oY="
         }
       ],
     }
